@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Edg.ist</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Edg.ist</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>mikeyparker@gmail.com (Mike Parker)</managingEditor>
+    <webMaster>mikeyparker@gmail.com (Mike Parker)</webMaster>
+    <copyright>Mike Parker</copyright>
+    <lastBuildDate>Thu, 20 Mar 2025 18:24:31 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Deutsch Files IV</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Thu, 20 Mar 2025 18:24:31 +0000</pubDate><author>mikeyparker@gmail.com (Mike Parker)</author>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>Brett Hall and I interview David Deutsch, physicist and author of The Beginning of Infinity. Also see The Deutsch Files I, II, and III. I can only start with what understanding I want. And I know I’ve asked you this before, but I want to be pedantically exhaustive about connecting the four theories of The Fabric of Reality.</description>
+    </item>
+    <item>
+      <title>The Future of Remote Work</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Tue, 18 Mar 2025 14:30:00 +0000</pubDate><author>mikeyparker@gmail.com (Mike Parker)</author>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>An in-depth conversation with Darcy Barnes, founder of Distributed Teams Inc. and author of &amp;ldquo;Remote Revolution&amp;rdquo;. We explore how the pandemic permanently shifted workplace paradigms and what organizations must do to thrive in this new environment.</description>
+    </item>
+    <item>
+      <title>Synthetic Biology: The Next Computing Platform</title>
+      <link>http://localhost:1313/posts/third-post/</link>
+      <pubDate>Sat, 15 Mar 2025 09:15:42 +0000</pubDate><author>mikeyparker@gmail.com (Mike Parker)</author>
+      <guid>http://localhost:1313/posts/third-post/</guid>
+      <description>Dr. Elena Ruiz explains how advances in genomic engineering are creating a new technological paradigm where biology becomes programmable. We discuss both the incredible opportunities and ethical challenges that arise when cells become the new semiconductors.</description>
+    </item>
+    <item>
+      <title>The New Space Economy</title>
+      <link>http://localhost:1313/posts/fouth-post/</link>
+      <pubDate>Mon, 10 Mar 2025 22:05:18 +0000</pubDate><author>mikeyparker@gmail.com (Mike Parker)</author>
+      <guid>http://localhost:1313/posts/fouth-post/</guid>
+      <description>A conversation with Sarah Chen, former SpaceX engineer and founder of Lunar Resources Corporation. We discuss the rapidly evolving commercial space industry, from low Earth orbit to lunar mining, and how the next decade will transform our relationship with space.</description>
+    </item>
+  </channel>
+</rss>
