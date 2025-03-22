@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+  <article class="main">
+    {{- with .Title }}
+    <header>
+      <h1 class="!mb-1">{{ . }}</h1>
+      {{- with site.Params.strapline }}
+        <span class="text-lg text-gray-600 mt-2 mb-6">{{ . }}</span>
+      {{- end }}
+    </header>
+    {{ end -}}
+    {{- with .Content }}
+      {{ . }}
+    {{ end -}}
+  </article>
+
+  {{- if default true site.Params.home.showRecentPosts }}
+    {{- $posts := where site.RegularPages "Section" "posts" -}}
+    {{- with $posts.Limit (int (default 3 site.Params.home.recentPostsLimit)) }}
+      <section>
+        {{ partial "posts/list.html" . }}
+      </section>
+    {{ end -}}
+  {{ end -}}
+
+  {{- if default true site.Params.home.showRecentNotes }}
+    {{- $notes := where site.RegularPages "Section" "notes" -}}
+    {{- with $notes.Limit (int (default 5 site.Params.home.recentNotesLimit)) }}
+      <section>
+        <h2>Recent notes</h2>
+
+        {{ partial "notes/list.html" . }}
+      </section>
+    {{ end -}}
+  {{ end -}}
+{{ end }}
