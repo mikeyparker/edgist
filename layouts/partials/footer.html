@@ -1,0 +1,60 @@
+<div class="social-links">
+  <a href="https://x.com/mikeyparker" aria-label="Twitter">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M23 3.01006C22.0424 3.68553 20.9821 4.20217 19.86 4.54006C19.2577 3.84757 18.4573 3.35675 17.567 3.13398C16.6767 2.91122 15.7395 2.96725 14.8821 3.29451C14.0247 3.62177 13.2884 4.20446 12.773 4.96377C12.2575 5.72309 11.9877 6.62239 12 7.54006V8.54006C10.2426 8.58562 8.50127 8.19587 6.93101 7.4055C5.36074 6.61513 4.01032 5.44869 3 4.01006C3 4.01006 -1 13.0101 8 17.0101C5.94053 18.408 3.48716 19.109 1 19.0101C10 24.0101 21 19.0101 21 7.51006C20.9991 7.23151 20.9723 6.95365 20.92 6.68006C21.9406 5.67355 22.6608 4.40277 23 3.01006Z" stroke="rgba(0, 0, 0, 0.54)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+  </a>
+  <a href="https://www.linkedin.com/in/mikeyparker/" aria-label="LinkedIn">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M16 8C17.5913 8 19.1174 8.63214 20.2426 9.75736C21.3679 10.8826 22 12.4087 22 14V21H18V14C18 13.4696 17.7893 12.9609 17.4142 12.5858C17.0391 12.2107 16.5304 12 16 12C15.4696 12 14.9609 12.2107 14.5858 12.5858C14.2107 12.9609 14 13.4696 14 14V21H10V14C10 12.4087 10.6321 10.8826 11.7574 9.75736C12.8826 8.63214 14.4087 8 16 8Z" stroke="rgba(0, 0, 0, 0.54)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M6 9H2V21H6V9Z" stroke="rgba(0, 0, 0, 0.54)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M4 6C5.10457 6 6 5.10457 6 4C6 2.89543 5.10457 2 4 2C2.89543 2 2 2.89543 2 4C2 5.10457 2.89543 6 4 6Z" stroke="rgba(0, 0, 0, 0.54)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+  </a>
+  <a href="/posts/index.xml" aria-label="RSS">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M4 11C6.38695 11 8.67613 11.9482 10.364 13.636C12.0518 15.3239 13 17.6131 13 20" stroke="rgba(0, 0, 0, 0.54)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M4 4C8.24346 4 12.3131 5.68571 15.3137 8.68629C18.3143 11.6869 20 15.7565 20 20" stroke="rgba(0, 0, 0, 0.54)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M5 20C5.55228 20 6 19.5523 6 19C6 18.4477 5.55228 18 5 18C4.44772 18 4 18.4477 4 19C4 19.5523 4.44772 20 5 20Z" stroke="rgba(0, 0, 0, 0.54)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+  </a>
+</div>
+{{- $license := default "none" site.Params.footer.creativeCommonsLicense -}}
+{{- $licenseData := index site.Data.til.cc $license -}}
+{{- $showCopyright := and site.Copyright ( ne $license "zero" ) -}}
+<section class="items-top flex flex-row justify-between opacity-70">
+  <div class="flex flex-col space-y-2">
+    {{- if $showCopyright }}
+      <p>Copyright &copy; {{ now.Year }}, {{ default "all rights reserved" site.Copyright }}.</p>
+    {{- end }}
+
+    {{- with $licenseData }}
+      <div
+        xmlns:cc="https://creativecommons.org/ns#"
+        xmlns:dct="http://purl.org/dc/terms/"
+        about="https://creativecommons.org"
+      >
+        Content is available under
+        <a href="{{ .url }}" rel="license" class="inline-block" title="Creative Commons {{ .name }}"
+          >{{ .abbr }}</a
+        >
+        unless otherwise noted.
+      </div>
+      {{- if (default true site.Params.footer.showCreativeCommonsIcons) }}
+        <div
+          class="mt-2 flex items-center space-x-2 fill-slate-400 hover:fill-slate-600 motion-safe:transition-colors"
+        >
+          <div class="flex-none cursor-help">{{ partial "svg/cc.html" }}</div>
+          {{- range .elements -}}
+            <div class="flex-none cursor-help">{{ partial ( printf "svg/cc-%s.html" . ) }}</div>
+          {{- end }}
+        </div>
+      {{- end }}
+    {{- else }}
+      {{- if ne $license "none" }}
+        {{- errorf "unknown %q CC license specified in hugo.toml" $license -}}
+      {{- end }}
+    {{- end }}
+
+  </div>
+</section>

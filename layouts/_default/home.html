@@ -1,18 +1,21 @@
 {{ define "main" }}
 
-  <article class="main">
+  <div class="site-header">
     {{- with .Title }}
     <header>
-      <h1 class="!mb-1">{{ . }}</h1>
-      {{- with site.Params.strapline }}
-        <span class="text-lg text-gray-600 mt-2 mb-6">{{ . }}</span>
+      <h1 class="site-title">{{ . }}</h1>
+      {{- with site.Params.siteDescription }}
+        <p class="site-description">{{ . }}</p>
+      {{- end }}
+      {{- with site.Params.siteTagLine }}
+        <p class="site-tagline">{{ . }}</p>
       {{- end }}
     </header>
     {{ end -}}
     {{- with .Content }}
       {{ . }}
     {{ end -}}
-  </article>
+  </div>
 
   {{- if default true site.Params.home.showRecentPosts }}
     {{- $posts := where site.RegularPages "Section" "posts" -}}

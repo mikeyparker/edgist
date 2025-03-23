@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+  {{ .Content }}
+
+  <div class="flex flex-col space-y-8">
+    {{ $pages := where site.RegularPages "Section" "posts" }}
+    {{ $pager := .Paginate ($pages.GroupByDate "2006") 20 }}
+
+    {{- range $pager.PageGroups }}
+      <section class="not-prose flex flex-col space-y-4">
+        <h2 class="text-xl font-semibold opacity-60 text-right border-b">{{ .Key }}</h2>
+
+        {{ partial "posts/list.html" .Pages }}
+      </section>
+    {{- end }}
+
+    {{- if gt $pager.TotalPages 1 }}
+      {{ partial "pagination.html" . }}
+    {{- end }}
+  </section>
+  </div>
+{{ end }}

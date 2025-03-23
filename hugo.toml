@@ -11,12 +11,20 @@ copyright = 'Mike Parker' # Used in the footer copyright mention.
   page = ['html']
 
 [menus]
+  #[[menus.main]]
+  #  name = 'Notes'
+  #  pageRef = '/notes'
+  #  weight = 20
   [[menus.main]]
-    name = 'Notes'
-    pageRef = '/notes'
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/posts'
     weight = 20
   [[menus.main]]
-    name = 'Posts'
+    name = 'Archive'
     pageRef = '/posts'
     weight = 30
   #[[menus.main]]
@@ -36,7 +44,9 @@ copyright = 'Mike Parker' # Used in the footer copyright mention.
 
 [params]
 
-  strapline = "Risk judgment. Speak truth. Build freely."
+  siteDescription = "Risk judgment. Speak truth. Build freely."
+  siteTagLine = "Thoughts on reinvention, philosophy, business, and being human."
+
   # Set how dates should appear across the site.
   # For format options, visit https://gohugo.io/functions/time/format/
   # Default: :date_long
@@ -89,7 +99,7 @@ copyright = 'Mike Parker' # Used in the footer copyright mention.
 
     # Show Creative Commons icons for the selected license.
     # Default: true
-    showCreativeCommonsIcons = true
+    showCreativeCommonsIcons = false
 
     # Show a credit link to the Today I Learned theme in the footer.
     # Default: true
