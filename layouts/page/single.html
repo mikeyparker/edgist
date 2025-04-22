@@ -25,9 +25,9 @@
   content: '';
   position: absolute;
   top: 90%;
-  left: 50%;
+  left: 52%;
   transform: translate(-50%, -50%);
-  width: 500px;
+  width: 600px;
   height: 800px;
   background-size: contain;
   opacity: 0.2; /* temporarily full */
@@ -71,6 +71,12 @@
   
   .about-page-title {
     font-size: 2.5rem;
+  }
+
+}
+@media (max-width: 480px) {
+  .poem::after {
+    width: 390px;
   }
 }
 </style>
