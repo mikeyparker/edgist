@@ -21,7 +21,7 @@ copyright = 'Mike Parker' # Used in the footer copyright mention.
     weight = 10
   [[menus.main]]
     name = 'About'
-    pageRef = '/posts'
+    pageRef = '/about'
     weight = 20
   [[menus.main]]
     name = 'Archive'

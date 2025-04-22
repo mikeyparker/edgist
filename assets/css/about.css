@@ -1,0 +1,53 @@
+/* Custom styles for the about page */
+
+.about-content {
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.8;
+  font-size: 1.2rem;
+}
+
+/* Style for the stanza blocks */
+.about-content p {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+/* Make the emphasized text more dramatic */
+.about-content em {
+  font-style: italic;
+  color: #555;
+}
+
+/* Make bold text stand out */
+.about-content strong {
+  font-weight: 700;
+  color: #000;
+}
+
+/* Special styling for the title */
+.about-page-title {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 3rem;
+  font-weight: 300;
+  letter-spacing: 4px;
+}
+
+/* Adjust spacing for non-breaking spaces that create stanza breaks */
+.stanza-break {
+  display: block;
+  height: 2rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .about-content {
+    font-size: 1.1rem;
+    padding: 0 1rem;
+  }
+  
+  .about-page-title {
+    font-size: 2.5rem;
+  }
+}
