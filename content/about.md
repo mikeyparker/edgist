@@ -22,7 +22,11 @@ Endless holidays.
 &nbsp;  
 Divorce.  
 Addiction.  
-Rehab.  
+Rehab. 
+
+&nbsp;  
+Depression.  
+Loneliness.  
 Silence.  
 
 &nbsp;  
