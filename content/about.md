@@ -40,7 +40,7 @@ So I'm walking away.
 
 &nbsp;  
 To live in a van.  
-Work with my hands.  
+Work with my mind.  
 Write what's real.  
 Build things that last.  
 Fix what I can.  
