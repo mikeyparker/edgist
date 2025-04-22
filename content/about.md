@@ -2,9 +2,9 @@
 title: "Shift—"
 date: 2025-04-22
 description: "This is my reinvention."
-layout: "page"
+type: "page"
+layout: "single"
 showTableOfContents: false
-custom_css: ["about.css"]
 ---
 
 &nbsp;  
