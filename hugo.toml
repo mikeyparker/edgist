@@ -41,6 +41,8 @@ copyright = 'Mike Parker' # Used in the footer copyright mention.
     [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
         block = true
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
 
