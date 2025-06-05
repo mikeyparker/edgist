@@ -6,7 +6,7 @@ draft: false
 description: "A reflection on suffering, awareness, and quantum consciousness. Unfolding the idea that we are not separate from the waves of thought but part of the vast ocean that creates them."
 summary: "Who is it that’s aware I’m thinking?
 That question didn’t arrive in stillness. It came from suffering—the quiet kind that hums beneath the surface. I wasn’t searching for a breakthrough, just trying to breathe through the ache. But then something subtle, seismic, shifted."
-tags: ["philosophy", "mindfulness", "physics", "identity"]
+tags: ["philosophy", "self-awareness", "physics", "identity"]
 ---
 
 ## Who is it that's aware I'm thinking?
