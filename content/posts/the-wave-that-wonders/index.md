@@ -39,7 +39,6 @@ The inner narrator. The endless rehearsal. The story of who I think I am, what I
 
 But if I can observe the story, then maybe I'm not in it. Perhaps I'm the one watching.
 
-## Consciousness
 Pondering, not as a neuroscientist, a physicist, or a yogi.
 As a man who burned his old life to the ground and started asking real questions.
 
@@ -49,7 +48,7 @@ What is this awareness? Where does it come from? Why does it feel like my sense 
 
 Back at University, while meandering through the field of AI, I stumbled upon "The Emporers New Mind",—in which [Roger] Penrose argues that human consciousness is non-algorithmic and thus is not capable of being modelled by a conventional Turing machine—the digital computer.
 
-Now, he's returned to my thoughts along with [Stuart] Hameroff and Orch-OR. Their theory of quantum consciousness offered something few others could: not as settled science, but as a provocative bridge between mind and matter.
+He's now returned to my thoughts along with [Stuart] Hameroff and Orch-OR. Their theory of quantum consciousness offered something few others could: not as settled science but as a provocative bridge between mind and matter.
 
 Maybe consciousness arises not from computation or cognition but from the collapse of quantum wave functions in microtubules (tiny structures inside our neurons).
 
@@ -63,7 +62,7 @@ These collapses might not be local. Not confined to this body or brain. They mig
 
 The ocean, singing through a wave.
 
-That's not a comforting idea. It's not spiritual escapism. It dismantles the illusion of control, of permanence, of separation. Liberation. Because if I'm not just the wave—if I am the ocean, becoming a wave—then death isn't an end. It's a return. A folding back into the vastness I never truly left.
+That idea isn’t comforting. It’s not a form of spiritual escapism; rather, it dismantles the illusion of control, permanence, and separation. It signifies liberation. If I’m not merely a wave, but rather the ocean that becomes a wave, then death isn’t an ending; it’s a return. It’s a folding back into the vastness from which I never truly departed.
 
 And maybe that's why some places feel sacred.  
 Some people feel familiar.  
