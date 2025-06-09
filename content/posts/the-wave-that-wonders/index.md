@@ -46,11 +46,12 @@ What is this awareness? Where does it come from? Why does it feel like my sense 
 
 ## Not the usual suspects of self-discovery. 
 
-Back at University, while meandering through the field of AI, I stumbled upon "The Emporers New Mind",—in which [Roger] Penrose argues that human consciousness is non-algorithmic and thus is not capable of being modelled by a conventional Turing machine—the digital computer.
+Back at University, while meandering through the field of AI, I stumbled upon "The Emperor's New Mind", in which [Roger] Penrose argues that human consciousness is non-algorithmic and thus is not capable of being modelled by a conventional Turing machine—the digital computer.
 
-He's now returned to my thoughts along with [Stuart] Hameroff and Orch-OR. Their theory of quantum consciousness offered something few others could: not as settled science but as a provocative bridge between mind and matter.
+He's now returned to my thoughts along with [Stuart] Hameroff and {{< tooltip text="Orchestrated Objective Reduction: a theory by Penrose and Hameroff proposing that consciousness arises from quantum processes in brain microtubules." >}}Orch-OR{{< /tooltip >}}. Their theory of quantum consciousness offered something few others could: not as settled science but as a provocative bridge between mind and matter.
 
-Maybe consciousness arises not from computation or cognition but from the collapse of quantum wave functions in microtubules (tiny structures inside our neurons).
+Maybe consciousness arises not from computation or cognition but from the collapse of 
+{{< tooltip text="Mathematical descriptions of quantum states; they collapse upon observation to produce specific outcomes." >}}quantum wave functions{{< /tooltip >}} in microtubules (tiny structures inside our neurons).
 
 Each collapse, a ripple of awareness. Each ripple, a wave.
 
