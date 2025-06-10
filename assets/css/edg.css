@@ -234,3 +234,24 @@ footer .social-links {
 .tooltip:hover::after {
   opacity: 1;
 }
+
+.series-banner {
+  border-left: 4px solid #00acc1;
+  background: #f4f9fa;
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  font-family: 'Georgia', serif;
+  line-height: 1.6;
+}
+
+.series-banner ul {
+  margin-top: 0.5em;
+  padding-left: 1.2em;
+  list-style-type: none;
+}
+
+.series-banner li::before {
+  content: "• ";
+  color: #00acc1;
+  font-weight: bold;
+}

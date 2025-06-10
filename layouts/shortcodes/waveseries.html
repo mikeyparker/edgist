@@ -1,0 +1,32 @@
+{{ $current := .Page.RelPermalink }}
+
+<div class="series-banner">
+    <p align="center" style="font-size:1em; line-height: 1.8em;">
+        <em>Written on my honeymoon.</em>
+        <br/>
+        <em>When the signal was clearest.</em>
+        <br/>
+        <em>When I finally heard what each place was saying.</em>
+    </p>
+  <p>This is Part {{ .Get "part" }} of a 3-part series on quantum consciousness, perception, and place.</p>
+  
+  <ul>
+    {{ if eq $current "/posts/the-wave-that-wonders/" }}
+      <li><strong>Part 1: <em>The Wave That Wonders</em></strong></li>
+    {{ else }}
+      <li><a href="/posts/the-wave-that-wonders/">Part 1: <em>The Wave That Wonders</em></a></li>
+    {{ end }}
+
+    {{ if eq $current "/posts/field-notes-from-the-edge/" }}
+      <li><strong>Part 2: <em>Field Notes from the Edge</em></strong></li>
+    {{ else }}
+      <li><a href="/posts/field-notes-from-the-edge/">Part 2: <em>Field Notes from the Edge</em></a></li>
+    {{ end }}
+
+    {{ if eq $current "/posts/quantum-chaos-and-consciousness/" }}
+      <li><strong>Part 3: <em>Quantum Chaos and Consciousness</em></strong></li>
+    {{ else }}
+      <li>Part 3: <em>Coming soon...</em></a></li>
+    {{ end }}
+  </ul>
+</div>
