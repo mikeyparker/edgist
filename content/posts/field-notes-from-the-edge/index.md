@@ -3,8 +3,8 @@ title: Field Notes from the Edge
 author: Mike Parker
 date: 2025-06-10
 draft: false
-description: ""
-summary: ""
+description: Exploration of how places like Naples, Thessaloniki, Scotland, and Newcastle interact with consciousness, memory, and resonance.
+summary: This second essay in a three-part series explores how Naples, Thessaloniki, Scotland, and Newcastle each shaped the internal field of perception. Where thought scrambles or settles, interference or coherence emerges, and the land seems to remember you, or not.
 tags:
   - philosophy
   - self-awareness
