@@ -5,7 +5,7 @@ date: 2025-06-10
 draft: false
 description: Exploration of how places like Naples, Thessaloniki, Scotland, and Newcastle interact with consciousness, memory, and resonance.
 summary: |-
-  Some places open you. Others close you. A rare few hum at a frequency that collapses something ancient into sudden clarity.
+  Some places open you. Others close you. A rare few hum at a frequency that collapses into sudden clarity.
   <br/><br/>
   I didn’t need a theory to feel it. I felt it in my breath. In the way my shoulders dropped in the silence that arrived when the inner static cleared. It was like being remembered by the land.
 tags:
