@@ -1,12 +1,17 @@
 ---
-title: "The Wave That Wonders"
-author: "Mike Parker"
-date: "2025-06-04"
+title: The Wave That Wonders
+author: Mike Parker
+date: 2025-06-04
 draft: false
-description: "A reflection on suffering, awareness, and quantum consciousness. Unfolding the idea that we are not separate from the waves of thought but part of the vast ocean that creates them."
-summary: "Who is it that’s aware I’m thinking?
-That question didn’t arrive in stillness. It came from suffering—the quiet kind that hums beneath the surface. I wasn’t searching for a breakthrough, just trying to breathe through the ache. But then something subtle, seismic, shifted."
-tags: ["philosophy", "self-awareness", "physics", "identity"]
+description: A reflection on suffering, awareness, and quantum consciousness. Unfolding the idea that we are not separate from the waves of thought but part of the vast ocean that creates them.
+summary: |-
+  Who is it that’s aware I’m thinking?
+  That question didn’t arrive in stillness. It came from suffering—the quiet kind that hums beneath the surface. I wasn’t searching for a breakthrough, just trying to breathe through the ache. But then something subtle, seismic, shifted.
+tags:
+  - philosophy
+  - self-awareness
+  - physics
+  - identity
 ---
 
 {{< waveseries part="1" >}}
@@ -20,7 +25,7 @@ I wasn't looking for a self-help breakthrough. I was just trying to breathe thro
 
 At first, it was just a sense—a distance between the thoughts and the one observing them. The realisation that I could watch them rise and pass like waves.
 
-> A wave is not separate from the ocean. It is the ocean, briefly in motion.
+> A wave is not separate from the ocean. It is the ocean, in motion.
 
 So what if I'm not the wave?
 

@@ -1,10 +1,13 @@
 ---
-title: Field Notes from the Edge
+title: Cartographies of Consciousness
 author: Mike Parker
 date: 2025-06-10
 draft: false
 description: Exploration of how places like Naples, Thessaloniki, Scotland, and Newcastle interact with consciousness, memory, and resonance.
-summary: This second essay in a three-part series explores how Naples, Thessaloniki, Scotland, and Newcastle each shaped the internal field of perception. Where thought scrambles or settles, interference or coherence emerges, and the land seems to remember you, or not.
+summary: |-
+  Some places open you. Others close you. A rare few hum at a frequency that collapses something ancient into sudden clarity.
+  <br/><br/>
+  I didn’t need a theory to feel it. I felt it in my breath. In the way my shoulders dropped in the silence that arrived when the inner static cleared. It was like being remembered by the land.
 tags:
   - philosophy
   - self-awareness
@@ -13,11 +16,17 @@ tags:
 ---
 
 {{< waveseries part="2" >}}
-Some places open you. Others close you. A rare few hum at a frequency that collapses something ancient into sudden clarity.
+
+[The Wave That Wonders](/posts/the-wave-that-wonders) never truly left me as I pondered life and consciousness. As we continued our journey, I became acutely aware of how the places we visited subtly influenced my feelings. This reflection brought back memories of how deeply I had connected with places in the past.
+
+## When Places Speak
+
+Some places open you. Others close you. A rare few hum at a frequency that collapses into sudden clarity.
 
 - Naples was interference.
 - Thessaloniki? Coherence.
 - Scotland—something remembered.
+- Newcastle: The Place That Doesn’t Hold
 
 I didn’t need a theory to feel it. I felt it in my breath. In the way my shoulders dropped in the silence that arrived when the inner static cleared. It was like being remembered by the land.
 
@@ -46,17 +55,15 @@ Thessaloniki felt like a bell still ringing long after it had been struck. A pla
 
 ## Scotland: Something Remembered
 
-Scotland does this too. When I cross the border, something ancient exhales in me. Not nostalgia. Not history. Field geometry. 
+Scotland does this too, when I cross the border, a weight lifts. Not nostalgia. Not history. Field geometry. 
 
-Maybe it’s what Federico Faggin calls the **primordial field of consciousness**—a knowing field from which form arises. If that’s true, maybe landforms and lineage aren’t separate from thought. Maybe we are localised ripples in a conscious field, and certain places reduce interference just enough for us to remember what we are.
+Maybe it’s what Federico Faggin calls the {{< tooltip text="Faggin's theory proposes a model where the conscious field is the foundation of reality, with matter arising from it as a form of information. He suggests that consciousness is a fundamental aspect of reality, not just a product of the brain." >}} primordial field of consciousness{{< /tooltip >}}—a knowing field from which form arises. If that’s true, maybe landforms and lineage aren’t separate from thought. Maybe we are localised ripples in a conscious field, and certain places reduce interference just enough for us to remember what we are.
 
 ## Newcastle: The Place That Doesn’t Hold
 
 But Newcastle is different. It’s where I’m from, where I live, where I’m supposed to feel at home. And yet the field never settles. The waveform doesn’t stabilise. It ricochets—closed loops, no resonance. Thoughts don’t echo there—they scatter. Ricocheting off walls that were never meant to hold them.
 
 Maybe that’s the root of the restlessness. Of the dissonance I carry. Not knowing how to belong in the place I’m meant to be.
-
-## Noting Patterns
 
 _Naples scattered me._<br/>
 _Thessaloniki held me._<br/>
