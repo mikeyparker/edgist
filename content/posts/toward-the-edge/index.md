@@ -24,7 +24,9 @@ Part One surfaced on June 4th. Part Two unfolded just six days later.
 
 A wedding. A honeymoon. Then a return to the familiar: the startup, the grind, the identity I’d worn for years. I tried to fit back into it. I tried to care. But it didn’t hold.
 
-I built software that I would never use myself. Showed up to meetings. Accepted plans I didn’t believe in, down a path that wasn't mine. So I stepped out—not completely, I continued to work as we travelled and surfed our way down the west coast of Europe. On July 25th, I left the UK to explore. France first, northern Spain. Then Portugal. A motorhome. My wife. My thoughts. I still don’t know what I’m moving toward. But I know what I’m leaving. And it isn’t just a place.
+I built software that I would never use myself. Showed up to meetings. Accepted plans I didn’t believe in, down a path that wasn't mine. So I stepped out—not completely, I continued to work as we travelled and surfed our way down the west coast of Europe. 
+
+On July 25th, I left the UK to explore. France first, northern Spain, then Portugal. A motorhome. My wife. My thoughts. I still don’t know what I’m moving toward. But I know what I’m leaving. And it isn’t just a place.
 
 The questions I’d started this series with — about consciousness, perception, the self — returned. Not with urgency. Not as puzzles to solve. But as companions.
 
