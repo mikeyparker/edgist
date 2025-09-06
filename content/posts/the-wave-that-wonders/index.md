@@ -13,8 +13,6 @@ tags:
   - physics
   - identity
 ---
-
-{{< waveseries part="1" >}}
 ## Who is it that's aware I'm thinking?
 
 That question didn't arrive in stillness. It came from suffering. The quiet kind. The kind that hums beneath the surface, wearing you down not with noise but with weight.
@@ -88,3 +86,4 @@ But I know I am not it.
 
 I am the wave that wonders.  
 And the ocean, wondering.
+{{< waveseries part="1" >}}

@@ -14,9 +14,6 @@ tags:
   - physics
   - identity
 ---
-
-{{< waveseries part="2" >}}
-
 [The Wave That Wonders](/posts/the-wave-that-wonders) never truly left me as I pondered life and consciousness. As we continued our journey, I became acutely aware of how the places we visited subtly influenced my feelings. This reflection brought back memories of how deeply I had connected with places in the past.
 
 ## When Places Speak
@@ -73,3 +70,4 @@ _Newcastle—never quite saw me._<br/>
 And something in that rhythm feels important. Maybe the key isn’t to define who we are but to go where coherence finds us.
 
 Where the waveform settles, where we can unfold—And wonder.
+{{< waveseries part="2" >}}

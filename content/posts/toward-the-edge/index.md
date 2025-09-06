@@ -12,8 +12,6 @@ tags:
   - identity
   - consciousness
 ---
-{{< waveseries part="3" >}}
-
 # Reality shifts when you do.
 > There is no map. Only movement. Still, something knows. You just have to be quiet long enough to feel it.
 
@@ -104,3 +102,4 @@ And so I go.
 > —but to come home.
 
 And if you're lost, as I've been, then maybe there's something in this for you.
+{{< waveseries part="3" >}}
