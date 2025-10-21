@@ -11,7 +11,7 @@ tags:
   - reinvention
 ---
 
-> "Morphine and the Myth of Stillness"
+> Morphine and the Myth of Stillness
 
 _A beautiful piece of street graffiti snapped in Bristol while visiting Universities with my daughter_
 ![Youthful, lost, carrying their own weight](IMG_3700.jpeg)
