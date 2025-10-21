@@ -1,21 +1,21 @@
 ---
 title: How I Mistook Silence for the Drug
 author: Mike Parker
-date: 2025-10-20
+date: 2025-10-21
 draft: false
-description: Reflections on founding Orange Bus, the acquisition by Capita, and lessons learned about building enduring companies
-summary: After five years off the grid, I’m back with a renewed drive to build. Reflecting on my journey from founding Orange Bus to growing it into a global digital agency and navigating the chaos post-acquisition by Capita PLC. It’s a story of pride, frustration, corporate dysfunction, and the toll on creativity. Now, with the past behind me, it’s time to focus on building meaningful, enduring companies once again.
+description: A raw reflection on addiction, silence, and the strange clarity found under anaesthetic. What morphine revealed wasn’t escape — it was the quiet I’d been chasing all along.
+summary: After years of addiction and recovery, an operation revealed something I’d been searching for my whole life — the quiet beneath the noise. How I Mistook Silence for the Drug is a meditation on stillness, survival, and the alignment that follows chaos.
 tags:
-  - business
-  - entrepreneurship
-  - corporate-culture
+  - identity
+  - addiction
+  - reinvention
 ---
-
 
 > "Morphine and the Myth of Stillness"
 
-![Youthful, lost, carrying their own weight](IMG_3700.jpeg)
 _A beautiful piece of street graffiti snapped in Bristol while visiting Universities with my daughter_
+![Youthful, lost, carrying their own weight](IMG_3700.jpeg)
+
 
 For years, I called myself high-functioning. Denied that I had a problem.  And, as the world around me collapsed, I continued to deny myself. 
 
@@ -34,7 +34,7 @@ That was over four years ago, **no more alcohol, no more drugs**.
 ## The Table to Heaven
 I've had many operations during my life — but through this last one, a week ago, I unexpectedly found an answer hiding in the silence.
 
-Lying on the anaesthetist's table, under that white light, the world began to fade away, as that slow liquid mercy—morphine entered my veins and for the first time in years, my mind went quiet. Not joy, not a high, just silence, a stillness and a calm that I haven't experienced for years.
+Lying on the anaesthetist's table, under that white light, the world began to fade away, as that slow liquid mercy—morphine entered my veins, my mind went quiet. Not joy, not a high, just silence, a stillness, clarity and a calm that I haven't experienced for years.
 
 There was a clarity, a quality to my thoughts that I've so struggled to hear above the incessant chattering of the monkeys running rampant in my mind.
 
