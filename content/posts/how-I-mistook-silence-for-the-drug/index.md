@@ -36,7 +36,7 @@ I've had many operations during my life — but through this last one, a week ag
 
 Lying on the anaesthetist's table, under that white light, the world began to fade away, as that slow liquid mercy—morphine entered my veins, my mind went quiet. Not joy, not a high, just silence, a stillness, clarity and a calm that I haven't experienced for years.
 
-There was a clarity, a quality to my thoughts that I've so struggled to hear above the incessant chattering of the monkeys running rampant in my mind.
+There was a quality to my thoughts that I've so struggled to hear above the incessant chattering of the monkeys running rampant in my mind.
 
 ## When the Rush Fades
 It was never the rush, never the pleasure that I was seeking. 
