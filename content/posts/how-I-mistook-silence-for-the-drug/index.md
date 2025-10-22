@@ -9,6 +9,8 @@ tags:
   - identity
   - addiction
   - reinvention
+  - self-awareness
+  - philosophy
 ---
 
 > Morphine and the Myth of Stillness
